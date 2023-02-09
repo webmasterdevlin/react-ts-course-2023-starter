@@ -3,6 +3,7 @@ tailwind.config.js
 tsconfig.json
 vite.config.ts
 prettier.config.js
+cypress.config.ts
 
 .DS_Store
 node_modules
